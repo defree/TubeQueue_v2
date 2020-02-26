@@ -1,0 +1,24 @@
+{
+  "name": "tq-server",
+  "version": "1.0.0",
+  "description": "Server for TubeQueue",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defree/TubeQueue_v2.git"
+  },
+  "keywords": [
+    "TQ",
+    "tubequeue",
+    "server"
+  ],
+  "author": "Esa Aaltonen",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/defree/TubeQueue_v2/issues"
+  },
+  "homepage": "https://github.com/defree/TubeQueue_v2#readme"
+}
